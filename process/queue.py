@@ -10,3 +10,5 @@ q.put(['sxl', 30])
 
 while q.qsize():
     print q.get()
+
+
